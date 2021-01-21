@@ -1,6 +1,6 @@
 name1 = "Shaquille Rashaun O'Neal "
 height1 = 2.16
-weight1 = 45
+weight1 = 147
 
 def body_mass_index(name, height, weight):
     counting = weight / (height**2)
